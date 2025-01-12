@@ -8,7 +8,7 @@
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Enter whatsapp web session.",
+            "description": "levanter_1382492a128b484a5fb3aa8c2e05e263bc",
             "required": true
         },
         "SUDO": {
@@ -35,7 +35,7 @@
             "required": true
         },
         "HEROKU_APP_NAME": {
-            "description": "Enter Heroku APP Name.",
+            "description": "CKBot",
             "required": true
         },
         "DEBUG": {
